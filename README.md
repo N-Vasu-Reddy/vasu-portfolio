@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # vasu-portfolio
-=======
-# Vasu Reddy - Portfolio Website
+=======# Vasu Reddy - Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Features a dark theme with green accents, smooth animations, and a professional design.
 
