@@ -1,0 +1,72 @@
+NALAMALAPU VASU REDDY  
+ 
+Email: rmnsrvasureddy@gmail.com 
+Github 
+ 
+LinkedIn: vasu-reddy-nalamalapu 
+Mobile: +91 9347846945 
+ 
+EDUCATION 
+Vishnu Institute of Technology 
+B. Tech, CSE (Artificial Intelligence and Data Science) 
+2022-2026 
+CGPA:8.93 
+Narayana Junior College 
+MPC 
+2020-2022 
+Percentage: 94.6 
+Montessori High School 
+SSC 
+2020 
+Percentage:  100 
+ 
+PROJECTS 
+COVID-19 Data Analysis 
+• 
+Built an end-to-end machine learning solution using Python and Jupyter Notebook for predicting California 
+housing prices, including data preprocessing, feature engineering, model training, evaluation, and 
+serialization. 
+• 
+Integrated a Flask-based web interface for real-time user input and price prediction, and implemented a 
+deployment-ready architecture combining backend inference with dynamic frontend templates. 
+California House price Prediction 
+• 
+Pre-processed the California housing dataset and performed feature engineering before training a Ridge 
+Regression model for accurate price prediction and performed model evaluation to ensure reliability. 
+• 
+Deployed the trained model locally using Flask and .pkl files, creating a dynamic web interface that enabled 
+real-time predictions based on user input. 
+Named Entity Recognition 
+• 
+Built a Named Entity Recognition system using a BiLSTM model trained with Keras, leveraging token and tag 
+mappings for sequence labeling. Prepared and preprocessed data, encoded tokens, and saved the trained 
+model along with necessary dictionaries. 
+• 
+Developed a Flask web application to deploy the NER model locally, enabling real-time entity extraction from 
+user input. Integrated model loading, preprocessing, prediction, and result display through a 
+clean HTML interface. 
+ 
+SKILLS 
+• 
+Languages : Python, SQL 
+• 
+Tools: GitHub, Jupyter Notebook, Visual Studio Code, Tableau 
+• 
+Technologies and Libraries: Numpy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, Dash, Folium, Scikit-learn 
+• 
+Databases: MySQL, MongoDB 
+• 
+Technical Skills: Data Cleaning and preparation, Machine Learning, Data Analytics 
+• 
+Soft Skills: Analytical thinking, Problem Solving, Mathematical and Statistical reasoning, team collaboration 
+ 
+CERTIFICATES 
+• 
+Edx|IBM Visualizing Data with Python | CERTIFICATE 
+• 
+NPTEL Data Analytics with Python | CERTIFICATE 
+• 
+Edx| IBM SQL for Data Science| CERTIFICATE 
+DECLARATION 
+I declare that al the information provided above is true and accurate to the best of my knowledge. I take full 
+responsibility for the correctness of the details shared in my resume. 
